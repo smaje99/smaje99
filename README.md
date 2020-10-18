@@ -1,5 +1,8 @@
 # Hi there, I'm Sergio Majé
 
 ### Connect with me:
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-<a href="https://www.linkedin.com/in/sergio-majé/"><i class="fab fa-linkedin"></i></a>
+[<img align="left" alt="Sergio Majé's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sergio Majé's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[linkedin]: https://www.linkedin.com/in/sergio-majé/
+[twitter]: https://twitter.com/smajefranco
