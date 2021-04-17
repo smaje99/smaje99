@@ -24,12 +24,11 @@ También he estado estudiando **Gestión de Proyectos** y **Metodologías de Edu
 
 Todo esto con el objetivo de **crear**, **contribuir** e **innovar** en *herramientas* y *proyectos* para mejorar la *educación* en general.
 
----
+## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smaje99&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&hide=contribs) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smaje99&theme=tokyonight&border_radius=20&layout=compact)
 
----
-## 📞 Contactame
+## 📞 Contácteme
 
 [<img align="left" alt="Sergio Majé's LinkedIn" width="30px" src="images/linkedin.svg" /> &nbsp;&nbsp; Sergio Majé ][linkedin]
 
