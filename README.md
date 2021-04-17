@@ -4,28 +4,25 @@
 
 ### He estudiando diferentes lenguajes, paradigmas y frameworks:
 * Java
-  * Programación Orientada a Objetos
-  * Programación Orientada a Eventos
-  * Swing
-  * Programación Funcional
 * Python
-  * Programación Orientada a Objetos
-  * Programación Funcional
-  * Programación Competitiva
-  * Web Scrapping
-  * Data Science
-  * Machine Learning
-  * Flask
 * HTML5 & CSS3
-* Javascript
-  * Vue
-  * React
+* JavaScript
+* Programación Orientada a Objetos
+* Programación Orientada a Eventos
+* Programación Funcional
+* Programación Competitiva
+* Patrones de Diseño de Software
+* Web Scrapping
+* Data Science
+* Machine Learning
+* Flask
+* Vue
+* React
+* Flexbox & Grid Layout
 
 También he estado estudiando **Gestión de Proyectos** y **Metodologías de Educación y Enseñanza**.
 
 Todo esto con el objetivo de **crear**, **contribuir** e **innovar** en *herramientas* y *proyectos* para mejorar la *educación* en general.
-
----
 
 ### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smaje99&count_private=true&show_icons=true&locale=es&theme=tokyonight&border_radius=20)
