@@ -24,8 +24,9 @@ También he estado estudiando **Gestión de Proyectos** y **Metodologías de Edu
 
 Todo esto con el objetivo de **crear**, **contribuir** e **innovar** en *herramientas* y *proyectos* para mejorar la *educación* en general.
 
-### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smaje99&count_private=true&show_icons=true&locale=es&theme=tokyonight&border_radius=20)
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smaje99&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&hide=contribs) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smaje99&theme=tokyonight&border_radius=20&layout=compact)
 
 [<img align="left" alt="Sergio Majé's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sergio Majé's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
