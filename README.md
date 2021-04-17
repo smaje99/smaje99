@@ -28,8 +28,12 @@ Todo esto con el objetivo de **crear**, **contribuir** e **innovar** en *herrami
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smaje99&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&hide=contribs) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smaje99&theme=tokyonight&border_radius=20&layout=compact)
 
-[<img align="left" alt="Sergio Majé's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sergio Majé's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+---
+## 📞 Contactame
+
+[<img align="left" alt="Sergio Majé's LinkedIn" width="30px" src="images/linkedin.svg" /> &nbsp;&nbsp; Sergio Majé ][linkedin]
+
+[<img align="left" alt="Sergio Majé's Twitter" width="30px" src="images/twitter.svg" /> &nbsp;&nbsp; @smaje99 ][twitter]
 
 [linkedin]: https://www.linkedin.com/in/sergio-majé/
-[twitter]: https://twitter.com/smajefranco
+[twitter]: https://twitter.com/smaje99
