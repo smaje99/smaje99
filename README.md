@@ -1,6 +1,6 @@
 # Hi 👋🏼, soy Sergio Majé 😃
 
-## Estoy estudiando para ser Desarrollador Fullstack:
+## Estoy estudiando para ser Desarrollador Fullstack
 
 ### He estudiando diferentes lenguajes, paradigmas y frameworks:
 
