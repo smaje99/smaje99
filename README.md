@@ -1,4 +1,4 @@
-# Hi, soy Sergio Majé
+# Hi 👋🏼, soy Sergio Majé 😃
 
 ## Estoy estudiando para ser Desarrollador Fullstack:
 
