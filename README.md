@@ -42,9 +42,9 @@ Todo esto con el objetivo de **crear**, **contribuir** e **innovar** en *herrami
 
 ## 📞 Contácteme
 
-[<img align="left" alt="Sergio Majé's LinkedIn" width="30px" src="images/linkedin.svg" /> &nbsp; Sergio Majé ][linkedin]
+* [<img align="left" alt="Sergio Majé's LinkedIn" width="28px" src="images/linkedin.svg" /> &nbsp; Sergio Majé ][linkedin]
 
-[<img align="left" alt="Sergio Majé's Twitter" width="30px" src="images/twitter.svg" /> &nbsp; @smaje99 ][twitter]
+* [<img align="left" alt="Sergio Majé's Twitter" width="28px" src="images/twitter.svg" /> &nbsp; @smaje99 ][twitter]
 
 [linkedin]: https://www.linkedin.com/in/sergio-majé/
 [twitter]: https://twitter.com/smaje99
