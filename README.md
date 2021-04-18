@@ -3,22 +3,34 @@
 ## Estoy estudiando para ser Desarrollador Fullstack:
 
 ### He estudiando diferentes lenguajes, paradigmas y frameworks:
-* Java
-* Python
-* HTML5 & CSS3
-* JavaScript
-* Programación Orientada a Objetos
-* Programación Orientada a Eventos
-* Programación Funcional
-* Programación Competitiva
-* Patrones de Diseño de Software
-* Web Scrapping
-* Data Science
-* Machine Learning
-* Flask
-* Vue
-* React
-* Flexbox & Grid Layout
+
+
+<table align="center">
+  <tr>
+    <td>Java</td>
+    <td>Programación Orientada a Objetos</td>
+    <td>Patrones de Diseño de Software</td>
+    <td>Flask</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Programación Orientada a Eventos</td>
+    <td>Web Scrapping</td>
+    <td>Vue</td>
+  </tr>
+  <tr>
+    <td>HTML & CSS</td>
+    <td>Programación Funcional</td>
+    <td>Data Science</td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Programación Competitiva</td>
+    <td>Machine Learning</td>
+    <td>Flexbox & Grid Layout</td>
+  </tr>
+</table>
 
 También he estado estudiando **Gestión de Proyectos** y **Metodologías de Educación y Enseñanza**.
 
