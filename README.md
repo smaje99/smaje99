@@ -32,7 +32,9 @@
   </tr>
 </table>
 
-También he estado estudiando **Gestión de Proyectos** y **Metodologías de Educación y Enseñanza**.
+También he estudiado: 
+* Gestión de Proyectos 
+* Metodologías de Educación y Enseñanza
 
 Todo esto con el objetivo de **crear**, **contribuir** e **innovar** en *herramientas* y *proyectos* para mejorar la *educación* en general.
 
