@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td>JavaScript</td>
-    <td>Programación Competitiva</td>
+    <td><a href="https://www.urionlinejudge.com.br/judge/es/profile/241557">Programación Competitiva</a></td>
     <td>Machine Learning</td>
     <td>Flexbox & Grid Layout</td>
   </tr>
