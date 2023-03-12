@@ -43,7 +43,8 @@ const aboutMe = {
       },
       backend: {
          Python: ["FastAPI", "SQLAlchemy"],
-         JavaScript: ["Node.js", "Express.js", "Next.JS"]
+         JavaScript: ["Node.js", "Express.js", "Next.JS"],
+         tooling: ["npm", "Poetry"]
       },
       databases: {
         SQL: ["PostgreSQL", "MySQL", "MariaDB"],
