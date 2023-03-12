@@ -55,4 +55,3 @@ I have completed competitive programming exercises in [<img src="https://www.bee
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaje99&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smaje99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=smaje99&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
