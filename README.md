@@ -1,52 +1,58 @@
-# Hi 👋🏼, soy Sergio Majé 😃
-
-## Estoy estudiando para ser Desarrollador Fullstack
-
-### He estudiando diferentes lenguajes, paradigmas y frameworks:
 
 
-<table align="center">
-  <tr>
-    <td>Java</td>
-    <td>Programación Orientada a Objetos</td>
-    <td>Patrones de Diseño de Software</td>
-    <td>Flask</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Programación Orientada a Eventos</td>
-    <td>Web Scrapping</td>
-    <td>Vue</td>
-  </tr>
-  <tr>
-    <td>HTML & CSS</td>
-    <td>Programación Funcional</td>
-    <td>Data Science</td>
-    <td>React</td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td><a href="https://www.urionlinejudge.com.br/judge/es/profile/241557">Programación Competitiva</a></td>
-    <td>Machine Learning</td>
-    <td>Flexbox & Grid Layout</td>
-  </tr>
-</table>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/smaje99/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/smaje99">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <a href="https://wakatime.com/@759c72d2-50c9-491a-ad73-106f46cb7512">
+    <img src="https://wakatime.com/badge/user/759c72d2-50c9-491a-ad73-106f46cb7512.svg" alt="Total time coded since Dec 28 2020" />
+  </a>
+</div>
 
-También he estudiado: 
-* Gestión de Proyectos 
-* Metodologías de Educación y Enseñanza
+<h1 align="center">Hi 👋🏼, I'm Sergio Majé 😃</h1>
 
-Todo esto con el objetivo de **crear**, **contribuir** e **innovar** en *herramientas* y *proyectos* para mejorar la *educación* en general.
+## I'm working as a Freelance Full Stack Web Developer
 
-## Stats
+### :man_technologist: Do you want to know more about me?
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smaje99&count_private=true&show_icons=true&theme=tokyonight&border_radius=20&hide=contribs) ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smaje99&theme=tokyonight&border_radius=20&layout=compact)
+~~~ javascript
+const aboutMe = {
+   pronouns: "He" | "Him",
+   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL", "NoSQL"],
+   technologies: {
+      frontend: {
+         JavaScript: ["React", "Next.JS", "Webpack", "Vite.js"],
+         CSS: ["Sass"],
+         test: ["Storybook"]
+      },
+      backend: {
+         Python: ["FastAPI", "SQLAlchemy"],
+         JavaScript: ["Node.js", "Express.js", "Next.JS"]
+      },
+      databases: {
+        SQL: ["PostgreSQL", "MySQL", "MariaDB"],
+        NoSQL: ["MongoDB"]
+      }
+   },
+   currentOccupation: ["Freelance Full Stack Web Developer", "System engineering student"]
+};
+~~~
 
-## 📞 Contácteme
+I have also studied:
+* Project management
+* Artificial intelligence
 
-* [<img align="left" alt="Sergio Majé's LinkedIn" width="28px" src="images/linkedin.svg" /> &nbsp; Sergio Majé ][linkedin]
+I have completed competitive programming exercises in [<img src="https://www.beecrowd.com.br/judge/favicon.ico" width=24 alt="beecrowd badge" /> beecrowd](https://www.beecrowd.com.br/judge/es/profile/241557).
 
-* [<img align="left" alt="Sergio Majé's Twitter" width="28px" src="images/twitter.svg" /> &nbsp; @smaje99 ][twitter]
+## :fire: My Stats
 
-[linkedin]: https://www.linkedin.com/in/sergio-majé/
-[twitter]: https://twitter.com/smaje99
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaje99&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smaje99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=smaje99&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
