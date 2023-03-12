@@ -1,14 +1,17 @@
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/smaje99/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      LinkedIn
     </a>
+    •
     <a href="https://twitter.com/smaje99">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      Twitter
+    </a>
+    •
+    <a href="https://www.beecrowd.com.br/judge/es/profile/241557">
+      beecrowd
     </a>
   </div>
   <a href="https://wakatime.com/@759c72d2-50c9-491a-ad73-106f46cb7512">
@@ -20,6 +23,11 @@
 
 ## I'm working as a Freelance Full Stack Web Developer
 
+I'm Web Developer looking for new horizons and willing to learn.
+
+I am currently working in [Medintegral medical system](https://github.com/smaje99/medintegral-medical-system)
+
+
 ### :man_technologist: Do you want to know more about me?
 
 ~~~ javascript
@@ -28,9 +36,10 @@ const aboutMe = {
    code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL", "NoSQL"],
    technologies: {
       frontend: {
-         JavaScript: ["React", "Next.JS", "Webpack", "Vite.js"],
+         JavaScript: ["React", "Next.JS"],
          CSS: ["Sass"],
          test: ["Storybook"]
+         tooling: ["Webpack", "Vite.JS"]
       },
       backend: {
          Python: ["FastAPI", "SQLAlchemy"],
