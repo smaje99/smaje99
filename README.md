@@ -39,12 +39,12 @@ const aboutMe = {
          JavaScript: ["React", "Next.JS"],
          CSS: ["Sass"],
          test: ["Storybook"]
-         tooling: ["Webpack", "Vite.JS"]
+         tooling: ["Webpack", "Vite.JS", "eslinter", "prettier"]
       },
       backend: {
          Python: ["FastAPI", "SQLAlchemy"],
          JavaScript: ["Node.js", "Express.js", "Next.JS"],
-         tooling: ["npm", "Poetry"]
+         tooling: ["npm", "pnpm", "Poetry", "pylint", "MyPy", "black"]
       },
       databases: {
         SQL: ["PostgreSQL", "MySQL", "MariaDB"],
