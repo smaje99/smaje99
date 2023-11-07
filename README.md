@@ -51,7 +51,7 @@ const aboutMe = {
         NoSQL: ["MongoDB", "Redis"]
       }
    },
-   currentOccupation: ["Freelance Full Stack Web Developer", "System engineering student"]
+   currentOccupation: ["Freelance Full Stack Web Developer", "Computer Engineering Student"]
 };
 ~~~
 
