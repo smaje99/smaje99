@@ -37,18 +37,18 @@ const aboutMe = {
    technologies: {
       frontend: {
          JavaScript: ["React", "Next.JS"],
-         CSS: ["Sass"],
+         CSS: ["Sass", "tailwind.css"],
          test: ["Storybook"]
          tooling: ["Webpack", "Vite.JS", "eslinter", "prettier"]
       },
       backend: {
          Python: ["FastAPI", "SQLAlchemy"],
          JavaScript: ["Node.js", "Express.js", "Next.JS"],
-         tooling: ["npm", "pnpm", "Poetry", "pylint", "MyPy", "black"]
+         tooling: ["npm", "pnpm", "Poetry", "Ruff", "MyPy"]
       },
       databases: {
         SQL: ["PostgreSQL", "MySQL", "MariaDB"],
-        NoSQL: ["MongoDB"]
+        NoSQL: ["MongoDB", "Redis"]
       }
    },
    currentOccupation: ["Freelance Full Stack Web Developer", "System engineering student"]
