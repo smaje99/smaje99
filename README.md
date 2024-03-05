@@ -36,10 +36,10 @@ const aboutMe = {
    code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL", "NoSQL"],
    technologies: {
       frontend: {
-         JavaScript: ["React", "Next.JS"],
+         JavaScript: ["React", "Next.JS", "Astro"],
          CSS: ["Sass", "tailwind.css"],
          test: ["Storybook"]
-         tooling: ["Webpack", "Vite.JS", "eslinter", "prettier"]
+         tooling: ["Webpack", "Vite.JS", "ESLint", "prettier"]
       },
       backend: {
          Python: ["FastAPI", "SQLAlchemy"],
