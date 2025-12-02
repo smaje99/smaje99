@@ -59,9 +59,10 @@ I have also studied:
 * Project management
 * Artificial intelligence
 
-I have completed competitive programming exercises in [<img src="https://www.beecrowd.com.br/judge/favicon.ico" width=24 alt="beecrowd badge" /> beecrowd](https://www.beecrowd.com.br/judge/es/profile/241557).
+I have completed competitive programming exercises in [<img src="https://judge.beecrowd.com/favicon.ico?1756240408" width=24 alt="beecrowd badge" /> beecrowd](https://judge.beecrowd.com/es/profile/241557).
 
 ## :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaje99&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smaje99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
