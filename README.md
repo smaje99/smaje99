@@ -19,7 +19,13 @@
   </a>
 </div>
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=24&pause=1000&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Sergio+Maj%C3%A9+%F0%9F%98%83" alt="Typing SVG" /></a>
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=24&pause=5000&center=true&repeat=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Sergio+Maj%C3%A9+%F0%9F%98%83" alt="Typing SVG" />
+  </a>
+</div>
 
 ## I'm working as a Freelance Full Stack Web Developer
 
@@ -64,6 +70,7 @@ I have completed competitive programming exercises in [<img src="https://judge.b
 ## :fire: My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=smaje99&theme=blue-green)](https://git.io/streak-stats)
+
 
 
 
