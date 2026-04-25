@@ -27,43 +27,68 @@
   </a>
 </div>
 
-## I'm working as a Freelance Full Stack Web Developer
+**Information Systems Builder · Full Stack Developer · Computer Engineering Student**
 
-I'm Web Developer looking for new horizons and willing to learn.
+I design and build software solutions that connect **processes, data and operations** to transform real business needs into clear, maintainable and useful digital systems.
 
-I am currently working in [Medintegral medical system](https://github.com/smaje99/medintegral-medical-system)
+My work combines **software engineering**, **process analysis**, **data handling**, **backend/frontend development** and **modular architecture**. I focus on building systems that are not only functional, but also understandable, scalable and aligned with real operational contexts.
 
+---
 
-### :man_technologist: Do you want to know more about me?
+## What I do
 
-~~~ javascript
-const aboutMe = {
-   pronouns: "He" | "Him",
-   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL", "NoSQL"],
-   technologies: {
-      frontend: {
-         JavaScript: ["React", "Next.JS", "Astro"],
-         CSS: ["Sass", "tailwind.css"],
-         test: ["Storybook"]
-         tooling: ["Webpack", "Vite.JS", "ESLint", "prettier"]
-      },
-      backend: {
-         Python: ["FastAPI", "SQLAlchemy"],
-         JavaScript: ["Node.js", "Express.js", "Next.JS"],
-         tooling: ["npm", "pnpm", "Poetry", "Ruff", "MyPy"]
-      },
-      databases: {
-        SQL: ["PostgreSQL", "MySQL", "MariaDB"],
-        NoSQL: ["MongoDB", "Redis"]
-      }
-   },
-   currentOccupation: ["Freelance Full Stack Web Developer", "Computer Engineering Student"]
+I build digital solutions for organizations and projects that need to move from scattered information, manual workflows or disconnected tools into structured software systems.
+
+My main areas of work are:
+
+- **Information systems** for operational, administrative and domain-specific needs.
+- **Full stack development** with modern frontend and backend technologies.
+- **Process-oriented software design** focused on real workflows based on BPM.
+- **Data processing and automation** for transforming raw information into usable structures.
+- **Modular architectures** that make projects easier to maintain and evolve.
+- **Technical documentation and educational tools** for learning, collaboration and software quality.
+
+---
+
+## Technical focus
+
+```ts
+const sergio = {
+  profile: [
+    "Computer Engineering Student",
+    "Full Stack Developer",
+    "Information Systems Builder"
+  ],
+
+  value_proposition: [
+    "I connect processes, data and software",
+    "I transform real needs into maintainable digital systems",
+    "I design solutions with technical structure and business context"
+  ],
+
+  main_stack: {
+    frontend: ["Next.js", "React", "Astro", "TypeScript", "Tailwind CSS"],
+    backend: ["Python", "FastAPI", "SQLAlchemy", "Node.js", "Express"],
+    databases: ["PostgreSQL", "MySQL", "MariaDB", "MongoDB", "Redis"],
+    testing_quality: ["pytest", "JUnit", "Vitest", "Ruff", "MyPy", "Biome"],
+    architecture: [
+      "Hexagonal Architecture",
+      "Vertical Slicing",
+      "Layered Architecture",
+      "Ports and Adapters",
+      "Modular Monorepos"
+    ]
+  },
+
+  domains: [
+    "Healthcare Information Systems",
+    "Data Extraction and Automation",
+    "Educational Software",
+    "Business Process-Oriented Systems",
+    "Technical Knowledge Management"
+  ]
 };
-~~~
-
-I have also studied:
-* Project management
-* Artificial intelligence
+```
 
 I have completed competitive programming exercises in [<img src="https://judge.beecrowd.com/favicon.ico?1756240408" width=24 alt="beecrowd badge" /> beecrowd](https://judge.beecrowd.com/es/profile/241557).
 
